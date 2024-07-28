@@ -7,4 +7,4 @@ vader	           0.680813
 textblob	       0.867332
 bert	           0.885703
 bert_tuned	     0.854689
-normal	         0.835450
+without_news	   0.835450
